@@ -1,5 +1,4 @@
-# The Great Language Divide: Investigating Question Quality by Programming Language on
-Stack Overflow
+# The Great Language Divide: Investigating Question Quality by Programming Language on Stack Overflow
 
 Authors: Serena Wollersheim, Ewan Morgan, Connor Newbery
 
